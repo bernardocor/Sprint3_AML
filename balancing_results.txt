@@ -1,0 +1,28 @@
+
+Resultados del modelo con técnicas de balanceo:
+
+--- Random OverSampling ---
+Entrenamiento:
+ Accuracy: 0.92
+ Precision: 0.87
+ Recall: 0.88
+ F1 Score: 0.88
+
+Prueba:
+ Accuracy: 0.81
+ Precision: 0.80
+ Recall: 0.82
+ F1 Score: 0.81
+
+--- SMOTE ---
+Entrenamiento:
+ Accuracy: 0.93
+ Precision: 0.88
+ Recall: 0.90
+ F1 Score: 0.89
+
+Prueba:
+ Accuracy: 0.82
+ Precision: 0.81
+ Recall: 0.84
+ F1 Score: 0.82
